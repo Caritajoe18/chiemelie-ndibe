@@ -32,6 +32,7 @@ async function fetchData(){
      
     })
 
+    console.log("image  ",output)
    resultDIV.innerHTML = output; 
 
 
